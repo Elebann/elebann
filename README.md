@@ -10,12 +10,12 @@ I have a deep passion for programming, reading, solving Rubik's cubes, and playi
 
 
 - 📦 Tools:<br>
-HTML | CSS | Tailwind | Bootstrap | Python | PHP | MySQL | Oracle Database |
+HTML | CSS | JavaScript | Tailwind | Bootstrap | React | Python | PHP | MySQL | Oracle Database | MongoDB
 
 - 🔭 I’m currently working on ...<br>
 Personal proyects!
 
 - 🌱 I’m currently learning ...<br>
-Javascript :)
+JavaScript
 
 - ⚡ Fun fact:<br>Coffee > Tea
