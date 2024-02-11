@@ -16,6 +16,6 @@ HTML | CSS | JavaScript | Tailwind | Bootstrap | React | Python | PHP | MySQL | 
 Personal proyects!
 
 - 🌱 I’m currently learning ...<br>
-JavaScript
+JavaScript & React
 
 - ⚡ Fun fact:<br>Coffee > Tea
